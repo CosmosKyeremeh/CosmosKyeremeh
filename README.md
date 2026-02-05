@@ -1,79 +1,37 @@
-# 👋 Hi, I'm Cosmos Kyeremeh  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=230&section=header&text=Cosmos%20Kyeremeh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Future%20Software%20Engineer&descAlignY=55" />
+</p>
 
-<div align="center">
+<h1 align="center">Hi 👋 I'm Cosmos Kyeremeh</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Cosmos%20Kyeremeh&fontSize=40&fontColor=ffffff" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Apps;Future+Software+Engineer" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Frontend+Developer+from+Ghana+🇬🇭;JavaScript+%7C+React+%7C+TypeScript+%7C+Node;Building+Modern+Web+Applications;Always+Learning+and+Improving+🚀)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨🏾‍💻 About Me  
-
-* 🎓 Computer Science Student  
-* 💻 Junior Software Developer  
-* ❤️ Passionate about Web Development  
-* ⚡ Focused on React, TypeScript & JavaScript  
-* 🌍 Based in Ghana  
+<p align="center">
+ 🇬🇭 Ghana • 💻 Web Developer • 🚀 Tech Enthusiast
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Tech Stack
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="65"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,vite,sass,firebase,git,github" />
+</p>
 
 ---
 
-<details>
-<summary>📂 More Skills</summary>
+## 🌟 About Me
 
-<br>
-
-- HTML5  
-- CSS3  
-- Git & GitHub  
-- Firebase  
-- REST APIs  
-
-</details>
+- 🎓 Computer Science Undergraduate  
+- 🔥 Passionate about frontend development  
+- 🌱 Learning full-stack skills step by step  
+- 🎯 Aiming to build real-world scalable apps  
 
 ---
 
-## 🌐 Connect With Me  
-
-📧 **Email:** kyeremehcosmos938@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/cosmos-kyeremeh-2b33882b3  
-📱 **WhatsApp:** https://wa.me/233554526535  
-
----
-
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
 🚀 **EduSite** — Responsive educational landing page  
 🛒 **Product_store** — JavaScript store app  
@@ -98,25 +56,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CosmosKyeremeh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CosmosKyeremeh&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors  
+## 👀 Profile Visitors
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=CosmosKyeremeh&color=blue&style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CosmosKyeremeh&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!  
-
-Feel free to check out my repositories and connect with me 😄
-
-</div>
+⭐️ From [CosmosKyeremeh](https://github.com/CosmosKyeremeh)
