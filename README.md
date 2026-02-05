@@ -82,29 +82,24 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmosKyeremeh&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CosmosKyeremeh&theme=tokyonight" height="165"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CosmosKyeremeh&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CosmosKyeremeh&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmosKyeremeh&layout=compact&theme=tokyonight)
-
-
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmosKyeremeh&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CosmosKyeremeh&theme=tokyonight&no-frame=true&margin-w=15)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CosmosKyeremeh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
