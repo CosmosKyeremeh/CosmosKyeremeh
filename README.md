@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Cosmos Kyeremeh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Apps;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Modern+Web+Apps;Aspiring+Software+Engineer" />
 </p>
 
 <p align="center">
