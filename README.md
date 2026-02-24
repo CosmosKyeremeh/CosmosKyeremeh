@@ -33,10 +33,10 @@
 
 ## 📌 Featured Projects
 
-🚀 **EduSite** — Responsive educational landing page  
-🛒 **Product_store** — JavaScript store app  
-✨ **CSS_Glowing_Button** — Animated hover button  
-⏰ **Digital_Clock** — Live digital clock UI  
+🚀 **EduSite** - Responsive educational landing page  
+🛒 **Product_store** - JavaScript store app  
+✨ **CSS_Glowing_Button** - Animated hover button  
+⏰ **Digital_Clock** - Live digital clock UI  
 
 ---
 
