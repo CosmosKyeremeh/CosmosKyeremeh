@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=230&section=header&text=Cosmos%20Kyeremeh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Future%20Software%20Engineer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=230&section=header&text=Cosmos%20Kyeremeh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Cosmos Kyeremeh</h1>
