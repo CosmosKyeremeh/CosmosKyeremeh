@@ -33,9 +33,9 @@
 
 ## 📌 Featured Projects
 
-🚀 **EduSite** - Responsive educational landing page  
-🛒 **Product_store** - JavaScript store app  
-✨ **CSS_Glowing_Button** - Animated hover button  
+🚀 **cosmos-portfolio** - Responsive full-stack portfolio highlighting more about me   
+🛒 **local-borga** - an e-commerce site  
+✨ **movie-box** - A modern Netflix-inspired movie streaming platform  
 ⏰ **Digital_Clock** - Live digital clock UI  
 
 ---
