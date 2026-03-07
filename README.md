@@ -33,7 +33,7 @@
 
 ## 📌 Featured Projects
 
-🚀 **cosmos-portfolio** - Responsive full-stack portfolio highlighting more about me   
+🚀 **cosmos-portfolio** - Responsive full-stack personal portfolio   
 🛒 **local-borga** - an e-commerce site  
 ✨ **movie-box** - A modern Netflix-inspired movie streaming platform  
 ⏰ **Digital_Clock** - Live digital clock UI  
